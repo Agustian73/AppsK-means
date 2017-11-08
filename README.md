@@ -1,2 +1,2 @@
 # AppsK-means
-SPK metode K-means
+SPK metode K-means dengan Java
